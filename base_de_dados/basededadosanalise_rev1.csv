@@ -1,0 +1,66 @@
+id;nome;camada;setor;cidade;estado;latitude;longitude;capacidade;unidade;Capacidade H2_Equivalente;fonte_dado
+1;REDUC;refinaria;refino;Duque de Caxias;RJ;-22.7826;-43.2882;239000;bbl/d;155350;EPE/Petrobras
+2;REPLAN;refinaria;refino;Paulinia;SP;-22.7604;-47.1548;415000;bbl/d;269750;EPE/Petrobras
+3;RNEST;refinaria;refino;Ipojuca;PE;-8.3987;-35.0635;130000;bbl/d;84500;EPE
+4;REVAP;refinaria;refino;Sao Jose dos Campos;SP;-23.1836;-45.8841;252000;bbl/d;163800;Petrobras
+5;RPBC;refinaria;refino;Cubatao;SP;-23.8916;-46.4250;170000;bbl/d;110500;EPE
+6;RECAP;refinaria;refino;Maua†;SP;-23.6602;-46.4537;53000;bbl/d;34450;ANP
+7;REGAP;refinaria;refino;Betim;MG;-19.9683;-44.1986;166000;bbl/d;107900;EPE
+8;REMAN;refinaria;refino;Manaus;AM;-3.1019;-60.0025;46000;bbl/d;29900;ANP
+9;REPAR;refinaria;refino;Araucaria;PR;-25.5856;-49.4047;208000;bbl/d;135200;EPE
+10;REFAP;refinaria;refino;Canoas;RS;-29.9176;-51.1811;201000;bbl/d;130650;EPE
+11;RELAM;refinaria;refino;Sao Fransciso do Conde;BA;-12.6719;-38.5434;333000;bbl/d;216450;ANP
+12;LUBNOR;refinaria;refino;Fortaleza;CE;-3.7172;-38.5434;8000;bbl/d;5200;ANP
+13;SIX;refinaria;refino;Sao Mateus do Sul;PR;-25.8767;-50.3845;6000;bbl/d;3900;Petrobras
+14;DAX OIL;refinaria;refino;Candeias;BA;-12.7380;-38.4683;2000;bbl/d;1300;ANP
+15;RIOGRANDENSE;refinaria;refino;Rio Grande;RS;-32.0350;-52.0986;17000;bbl/d;11050;ANP
+16;UNIVEN;refinaria;refino;Itupeva;SP;-23.1539;-47.0576;10000;bbl/d;6500;ANP
+17;Unigel Camaáari;fertilizante;quimica;Camacari;BA;-12.6353;-38.3200;600000;t/ano amc;105600;EPE/Industria
+18;Unigel Laranjeiras;fertilizante;quimica;Laranjeiras;SE;-10.8065;-37.1636;650000;t/ano amc;114400;Industria
+19;Yara Cubat∆o;fertilizante;quimica;Cubatao;SP;-23.8916;-46.4250;120000;t/ano amc*;21120;Industria
+20;Yara Rio Grande;fertilizante;quimica;Rio Grande;RS;-32.0350;-52.0986;100000;t/ano amc*;17600;Industria
+21;Atlas Agro;fertilizante;quimica;Uberaba;MG;-19.7473;-47.9319;530000;t/ano amc;93280;Projetos H2
+22;CSN;siderurgia;aco;Volta Redonda;RJ;-22.5167;-44.1046;5600000;t/ano aco;280000;EPE
+23;Usiminas Ipatinga;siderurgia;aco;Ipatinga;MG;-19.4706;-42.5364;9500000;t/ano aco;475000;EPE
+24;Usiminas Cubat∆o;siderurgia;aco;Cubatao;SP;-23.8916;-46.4250;5000000;t/ano aco;250000;EPE
+25;ArcelorMittal;siderurgia;aco;Serra;ES;-20.3155;-40.3128;7500000;t/ano aco;375000;EPE
+26;Gerdau Ouro Branco;siderurgia;aco;Ouro Branco;MG;-20.3850;-43.5030;4500000;t/ano aco;225000;Industria
+27;CSP Pecem;siderurgia;aco;Sao Goncalo do Amarante;CE;-3.6860;-38.5720;3000000;t/ano aco;150000;EPE
+28;Ternium Brasil;siderurgia;aco;Rio de Janeiro;RJ;-22.9711;-43.1822;5000000;t/ano aco;250000;Industria
+29;Porto do Pecem;porto;infraestrutura;Sao Goncalo do Amarante;CE;-3.6860;-38.5720;8000;MW (MoU);1200000;EPE
+30;Porto de Suape;porto;infraestrutura;Ipojuca;PE;-8.3320;-35.0413;2500;MW (MoU);375000;EPE
+31;Porto do Acu;porto;infraestrutura;Sao Joao da Barra;RJ;-21.7380;-41.0440;4000;MW (MoU);600000;EPE
+32;Porto de Santos;porto;infraestrutura;Santos;SP;-23.9608;-46.3336;100;MW (MoU);15000;EPE
+33;Porto de Itaqui;porto;infraestrutura;Sao Luis;MA;-2.5297;-44.3028;1000;MW (MoU);150000;EPE
+34;Porto de Paranagua;porto;infraestrutura;Paranagua;PR;-25.5205;-48.5035;50;MW (Est.);7500;EPE
+35;Porto de Rio Grande;porto;infraestrutura;Rio Grande;RS;-32.0350;-52.0986;500;MW (MoU);75000;EPE
+36;Porto de Itaja°;porto;infraestrutura;Itajai;SC;-26.9078;-48.6619;20;MW (Est.);3000;EPE
+37;Complexo Solar Sao Goncalo;solar;geracao;Sao Goncalo do Gurgueia;PI;-10.4560;-45.2800;864;MW;129600;ANEEL/EPE
+38;Complexo Solar Janaiba;solar;geracao;Janaiba;MG;-15.4600;-43.3100;1200;MW;180000;ANEEL/EPE
+39;Complexo Solar Pirapora;solar;geracao;Pirapora;MG;-17.3450;-44.9410;321;MW;48150;ANEEL/EPE
+40;Complexo Solar Nova Olinda;solar;geracao;Ribeira do Piaui;PI;-7.6950;-43.7050;292;MW;43800;ANEEL/EPE
+41;Complexo Solar Ituverava;solar;geracao;Tabocas do Brejo Velho;BA;-11.3800;-44.9000;254;MW;38100;ANEEL/EPE
+42;Complexo Solar Bom Jesus da Lapa;solar;geracao;Bom Jesus da Lapa;BA;-13.2500;-43.4100;158;MW;23700;ANEEL/EPE
+43;Complexo Eolico Lagoa dos Ventos;eolica;geracao;Dom Inocencio;PI;-9.0100;-41.9700;716;MW;107400;ANEEL/EPE
+44;Complexo Eolico Serra Branca;eolica;geracao;Parazinho;RN;-5.4500;-36.5400;1200;MW;180000;ANEEL/EPE
+45;Complexo Eolico Serra Branca;eolica;geracao;Trairi;CE;-3.2200;-39.2700;1000;MW;150000;ANEEL/EPE
+46;Parque Eolico Osorio;eolica;geracao;Osorio;RS;-29.8860;-50.2690;150;MW;22500;ANEEL/EPE
+47;Complexo Eolico Ventos do Araripe;eolica;geracao;Simaes;PI;-7.0000;-40.0000;359;MW;53850;ANEEL/EPE
+48;Complexo Eolico Alto Sertao;eolica;geracao;Caetite;BA;-14.2300;-42.7700;386;MW;57900;ANEEL/EPE
+49;FFI Pecem;produtor h2;energia;Sao Goncalo do Amarante;CE;-3.6860;-38.5720;1200000;kW;180000;EPE
+50;H2 Brasil Acu;produtor h2;energia;Sao Joao da Barra;RJ;-21.7380;-41.0440;124325;t/ano H2;124325;H2Brasil
+51;H2 Brasil Uberaba;produtor h2;energia;Uberaba;MG;-19.7473;-47.9319;93280;t/ano H2*;93280;Projeto
+52;H2X Bacabeira;produtor h2;energia;Bacabeira;MA;-2.8700;-44.2000;45000;t/ano H2*;45000;Projeto
+53;Quair Suape;produtor h2;energia;Ipojuca;PE;-8.3320;-35.0413;150000;t/ano H2*;150000;Projeto
+54;EDP Pecem;produtor h2;energia;Sao Goncalo do Amarante;CE;-3.6860;-38.5720;250;Nm3/h;197;EPE
+55;REDUC;consumo h2;refino;Duque de Caxias;RJ;-22.7826;-43.2882;239000;bbl/d;155350;EPE
+56;REPLAN;consumo h2;refino;Paulinia;SP;-22.7604;-47.1548;415000;bbl/d;269750;EPE
+57;RNEST;consumo h2;refino;Ipojuca;PE;-8.3987;-35.0635;130000;bbl/d;84500;EPE
+58;REVAP;consumo h2;refino;Sao Jose dos Campos;SP;-23.1836;-45.8841;252000;bbl/d;163800;EPE
+59;REPBC;consumo h2;refino;Cubatao;SP;-23.8916;-46.4250;170000;bbl/d;110500;EPE
+60;Unigel Camaáari;consumo h2;fertilizante;Camacari;BA;-12.6353;-38.3200;600000;t/ano amc;105600;EPE/Industria
+61;Unigel Laranjeiras;consumo h2;fertilizante;Laranjeiras;SE;-10.8065;-37.1636;650000;t/ano amc;114400;Industria
+62;Atlas Agro;consumo h2;fertilizante;Uberaba;MG;-19.7473;-47.9319;530000;t/ano amc;93280;Projetos H2
+63;CSN;consumo h2;siderurgia;Volta Redonda;RJ;-22.5167;-44.1046;5600000;t/ano aco;280000;EPE
+64;Usiminas Ipatinga;consumo h2;siderurgia;Ipatinga;MG;-19.4706;-42.5364;9500000;t/ano aco;475000;EPE
+65;Usiminas Cubat∆o;consumo h2;siderurgia;Cubatao;SP;-23.8916;-46.4250;5000000;t/ano aco;250000;EPE
