@@ -1,6 +1,6 @@
 # TCC
 
-# Modelagem Espacial de Recursos Energéticos Renováveis e Demanda para o TCC
+# Avaliação do Potencial Regional para a Implementação de Hubs de Hidrogênio no Brasil
 
 Repositório dedicado ao armazenamento, organização e documentação das bases de dados geográficas e resultados do Trabalho de Conclusão de Curso (TCC).
 
